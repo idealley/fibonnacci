@@ -40,3 +40,10 @@ Calculate any [Fibonnaci number](http://www.maths.surrey.ac.uk/hosted-sites/R.Kn
 	* 1M        9'766'691'625ns (9.8s)
 	* 2M 	   40'553'022'295ns (40.5s)
 	* 10M	1'019'491'969'834ns	(17min)
+* Fibo2
+	* 50 			  38'529ns
+	* 280K 		  60'795'204ns (0.06s)
+	* 500k 		 180'031'379ns (0.18s)
+	* 1M 		 727'452'248ns (0.72s)
+	* 2M 	   2'808'031'169ns (2.8s)
+	* 10M 	  66'804'705'129ns (67s)

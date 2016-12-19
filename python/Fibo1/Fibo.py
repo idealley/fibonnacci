@@ -9,7 +9,7 @@ def fib(n):
     t1 = timer()  
     print(a, (t1-t0), "s")	
 
-fib(10000000)	
+fib(10 ** 7)	
 
 
 
